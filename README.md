@@ -1,5 +1,7 @@
 ﻿# NPU-Exporter
 
+> **Note**: This repository is migrated from [Ascend/mind-cluster](https://gitcode.com/Ascend/mind-cluster/tree/master/component/npu-exporter)
+
 # 组件介绍
 
 
